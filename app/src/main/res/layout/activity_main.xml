@@ -4,6 +4,28 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/ActivityTitleStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="@string/activity_home" />
+
+        <TextView
+            style="@style/ActivityDescriptionStyle"
+            android:layout_width="match_parent"
+            android:textColor="@color/black"
+            android:padding="10dp"
+            android:layout_height="wrap_content"
+            android:text="@string/activity_home_description" />
+    </LinearLayout>
+
     <TextView
         android:id="@+id/search"
         style="@style/ActivityStyle"

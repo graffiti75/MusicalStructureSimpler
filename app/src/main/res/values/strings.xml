@@ -8,6 +8,8 @@
     <string name="activity_favorites">Favorites</string>
     <string name="activity_store">Store</string>
 
+    <string name="activity_home_description">Here you can see all options of this Musical Structure app.</string>
+
     <string name="activity_search_description">Here you can search for songs or artists. If you find a song/artist you can click on details to see more information or you can listen to the song.</string>
     <string name="activity_now_playing_description">Here you can see the song playing now. You can here add it to your favorites or you can buy it immediately the song. I would use the MediaPlayer class to implement the music playing functionality.</string>
     <string name="activity_favorites_description">Here you can see the list of the songs that you liked and saved.</string>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+
+    <string name="activity_home">Home</string>
+    <string name="activity_search">Search</string>
+    <string name="activity_details">Details</string>
+    <string name="activity_now_playing">Now Playing</string>
+    <string name="activity_favorites">Favorites</string>
+    <string name="activity_store">Store</string>
+
+    <string name="activity_search_description">Here you can search for songs or artists. If you find a song/artist you can click on details to see more information or you can listen to the song.</string>
+    <string name="activity_now_playing_description">Here you can see the song playing now. You can here add it to your favorites or you can buy it immediately the song. I would use the MediaPlayer class to implement the music playing functionality.</string>
+    <string name="activity_favorites_description">Here you can see the list of the songs that you liked and saved.</string>
+    <string name="activity_store_description">Here you can search for songs or artists and you can buy the song or the whole album. The user could buy the songs/albums through the In-app Billing which is a Google Play service, so it is comfortable and we don\'t need any external banking services. Rock\'n\'Roll.</string>
+    <string name="activity_details_description">Here you can see the details of the song or album, which year it has been released, on which album it is on, you get more suggestions from other songs/albums to listen to. You can listen to the song to.</string>
+</resources>

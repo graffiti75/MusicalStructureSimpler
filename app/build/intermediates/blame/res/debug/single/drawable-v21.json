@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/rodrigo/git/MusicalStructureSimpler/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/rodrigo/.android/build-cache/a7db1e0d920d99f0b7caba07e19e1de46a0d5b6c/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/rodrigo/git/MusicalStructureSimpler/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/rodrigo/.android/build-cache/5a1fe236cbb0e62447f3d95acfe33302d63f586c/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/rodrigo/git/MusicalStructureSimpler/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/rodrigo/.android/build-cache/5a1fe236cbb0e62447f3d95acfe33302d63f586c/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/rodrigo/git/MusicalStructureSimpler/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/rodrigo/.android/build-cache/a7db1e0d920d99f0b7caba07e19e1de46a0d5b6c/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/rodrigo/git/MusicalStructureSimpler/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/rodrigo/.android/build-cache/a7db1e0d920d99f0b7caba07e19e1de46a0d5b6c/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/rodrigo/git/MusicalStructureSimpler/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/rodrigo/.android/build-cache/5a1fe236cbb0e62447f3d95acfe33302d63f586c/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/rodrigo/git/MusicalStructureSimpler/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/rodrigo/.android/build-cache/5a1fe236cbb0e62447f3d95acfe33302d63f586c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/rodrigo/git/MusicalStructureSimpler/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/rodrigo/.android/build-cache/a7db1e0d920d99f0b7caba07e19e1de46a0d5b6c/output/res/drawable-v21/avd_show_password.xml"
+    }
+]

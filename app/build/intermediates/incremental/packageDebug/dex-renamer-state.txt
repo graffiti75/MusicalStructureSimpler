@@ -1,0 +1,7 @@
+#Sat Sep 16 15:06:54 BRT 2017
+base.0=/Users/rodrigo/git/MusicalStructureSimpler/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4f067fb94b63baa033dd314d7498987a6c4198ab
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/rodrigo/git/MusicalStructureSimpler/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1c570b1c43e120ad1e8f21788874a04628a9aec6/classes.dex
+base.1=/Users/rodrigo/git/MusicalStructureSimpler/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1c570b1c43e120ad1e8f21788874a04628a9aec6
+file.0=/Users/rodrigo/git/MusicalStructureSimpler/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4f067fb94b63baa033dd314d7498987a6c4198ab/classes.dex

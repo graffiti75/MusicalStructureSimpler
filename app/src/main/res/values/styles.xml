@@ -1,46 +1,6 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-    </style>
-
-    <!-- Style for Activity list -->
-    <style name="ActivityStyle">
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">0dp</item>
-        <item name="android:layout_weight">1</item>
-        <item name="android:gravity">center_vertical</item>
-        <item name="android:padding">16dp</item>
-        <item name="android:layout_marginBottom">1dp</item>
-        <item name="android:textColor">@color/activity_text</item>
-        <item name="android:textStyle">bold</item>
-        <item name="android:textAlignment" tools:targetApi="jelly_bean_mr1">center</item>
-        <item name="android:textAppearance">?android:textAppearanceMedium</item>
-    </style>
-
-    <!-- Style for Activity title -->
-    <style name="ActivityTitleStyle">
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">40dp</item>
-        <item name="android:gravity">center_vertical</item>
-        <item name="android:padding">16dp</item>
-        <item name="android:layout_marginBottom">1dp</item>
-        <item name="android:textColor">@color/activity_text</item>
-        <item name="android:textStyle">bold</item>
-        <item name="android:textAlignment" tools:targetApi="jelly_bean_mr1">center</item>
-        <item name="android:textAppearance">?android:textAppearanceMedium</item>
-    </style>
-
-    <!-- Style for Activity description -->
-    <style name="ActivityDescriptionStyle">
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">40dp</item>
-        <item name="android:gravity">center_vertical</item>
-        <item name="android:layout_marginBottom">1dp</item>
-        <item name="android:textColor">@color/activity_text</item>
-        <item name="android:textAppearance">?android:textAppearanceMedium</item>
-    </style>
+<resources>
+    <!-- Base application theme, referenced in AndroidManifest.xml -->
+    <!-- The manifest currently uses Theme.AppCompat.Light.NoActionBar directly. -->
+    <!-- This file can be used if a custom base XML theme is needed for launch or other specific cases. -->
+    <!-- For a Compose-only app, this might not be strictly necessary if the manifest theme is sufficient. -->
 </resources>
